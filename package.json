@@ -1,0 +1,19 @@
+{
+  "name": "comp3104_week02",
+  "version": "1.0.0",
+  "description": "comp3104LabWork",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KevinUfkes/comp3104_week02.git"
+  },
+  "author": "Kevin Ufkes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KevinUfkes/comp3104_week02/issues"
+  },
+  "homepage": "https://github.com/KevinUfkes/comp3104_week02#readme"
+}
