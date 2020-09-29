@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/KevinUfkes/comp3104_week02/issues"
   },
-  "homepage": "https://github.com/KevinUfkes/comp3104_week02#readme"
+  "homepage": "https://github.com/KevinUfkes/comp3104_week02#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
 }
